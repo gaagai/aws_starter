@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsc50bce73": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
